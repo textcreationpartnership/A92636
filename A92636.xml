@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act in favours of these of the Scots nation in Konigsberg, for a voluntar collection. At Edinburgh, the fifteenth day of April, 1697. Years.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92636</idno><idno type="EEBO-CITATION">45097938</idno>
+  <idno type="VID">171513</idno>
+  <idno type="EEBO-PROQUEST">2240881046</idno>
+  
+            <idno type="STC">Wing S1441A</idno>
+            <idno type="STC">ESTC R183012</idno>
+            <idno type="OCLC">45097938</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171513)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act in favours of these of the Scots nation in Konigsberg, for a voluntar collection. At Edinburgh, the fifteenth day of April, 1697. Years.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Church of Scotland. Provincial Synod of Lothian and Tweeddale.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Mosman,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>in the year, 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+                  <note>The humble and earnest request, of those of the Scots nation resideing in Konigsberg in Prussia; together with the reverend ministers and elders of the Reformed Church there, whereof they are members -- The act of the Provincial Synod of Lothian and Tweeddale for a general collection for the building of a church, to the Scots Reformed Protestants, and others in the city of Konigsberg in Prussia -- Act and recommendation, concerning a collection, for helping to build a church in Konigsberg in Prussia, in pursuance of the act of His Majestie's Privy Council.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  History --  17th century.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:171513:1"/>
+            <pb facs="tcp:171513:2"/>
+            <pb facs="tcp:171513:2"/>
+            <head>
+               <hi>ACT</hi> In favours of these of the <hi>Scots</hi> Nation in <hi>Konigsberg,</hi> for a Voluntar Collection.</head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi>
+                  <date>The fifteenth Day of <hi>April,</hi> 1697. Years.</date>
+               </dateline>
+            </opener>
+            <p>ANent the Petition given in to the Lords of His Majestie's Privy Council, by the Ministers, and Elders, Commissioners appointed by the late Gene<g ref="char:EOLhyphen"/>ral Assembly: Shewing, That where an Address directed to the Ge<g ref="char:EOLhyphen"/>neral Assembly of the Church of <hi>SCOTLAND,</hi> or in their absence to their Commissioners, from these of the <hi>Scots</hi> Nation, Residing in <hi>Konigsberg</hi> in <hi>Prussia,</hi> with the Ministers and Elders of the Reformed Church there, hath been presented to the Petitioners, by Mr. <hi>Francis Hay</hi> their Deputy, Earnestly Craving the Assistance of the Churches of this Kingdom, for helping them to carry on the Building of the Fabrick of a Church, which they have obtained the Liberty to Build, by the Favour of the PRINCE ELECTOR of <hi>Brandenburg,</hi> as the said Address produc<g ref="char:EOLhyphen"/>ed with the said Petition bears; And seing that the said Work appears to be Good and Necessary, and that the Petitioners are indeed sensible of the great and particular Obli<g ref="char:EOLhyphen"/>gation lyes upon them, to give their Country-Men in that place, all Assistance in their Power, which they conceive can only be done by their Lordships Interposing of their Authority, for a free and voluntar Collection, to be made through the whole Churches and Paroches of this Kingdom, and that in the way and manner that may prove most effectual. And therefore, Humbly craving to the effect under-written, as the said Pe<g ref="char:EOLhyphen"/>tition bears, The saids Lords of His Majesties Privy Council, having considered this Petition given in to them by the above Ministers and Elders Commissioners appointed by the late General Assembly, with the Request of the <hi>Scots</hi> Nation in <hi>Konigsberg,</hi> to the General Assembly of this Church, or their Commissioners mentioned therein, and produced therewith, They do hereby allow, a general Collection to be made through the haill Churches and Paroches of this Kingdom, for promoving of the said Work, of Building a Church at <hi>Konigsberg,</hi> for these of the Reformed Religion; And that it may be the more effectual: The saids Lords do hereby allow the Respective Presbytries and Ministers concerned, either to make the said Collection, at their Kirk Doors, or by the Ministers, Elders and Deacons from House to House, as they shall think most Expedient, And to Intimate the said Collection upon such Days, as they shall think most fit for that Effect. <hi>Extracted by Me.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>GILB. ELIOT.</hi> Cls. Sti. Cons.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Here follows the Address of these of the <hi>Scots</hi> Nation, and others of the true Reformed Religion, residing in <hi>Konigsberg</hi> in <hi>Prussia.</hi>
+            </head>
+            <head type="sub">To the Venerable <hi>General Assembly</hi> of the Church of <hi>SCOTLAND,</hi> or in their absence, To the Reverend Commissioners of the Church, Deputed by them.</head>
+            <head type="sub">The Humble and Earnest REQUEST, of those of the <hi>Scots</hi> Na<g ref="char:EOLhyphen"/>tion resideing in <hi>Konigsberg</hi> in <hi>Prussia;</hi> Together with the Reve<g ref="char:EOLhyphen"/>rend Ministers and Elders of the <hi>Reformed Church</hi> there, whereof they are Members,</head>
+            <opener>Sheweth,</opener>
+            <p>THAT whereas, in the Providence of GOD, Our Lot is cast in this Place of the World, We, by the Blessing of GOD, and under the Protection of the Prince Elector of <hi>BRANDENBƲRG,</hi> have hi<g ref="char:EOLhyphen"/>therto had the Ordinances of the Gospel Dispensed to Us, in an Hall of the Prince Elector's Palace here; all the Churches in the City be<g ref="char:EOLhyphen"/>ing <hi>Lutheran,</hi> except one <hi>Popish.</hi> But now finding, that by the Goodness of GOD, Our Number is so encreased, that the aforesaid Hall cannot conveniently contain Us; Considering what Hazard, We, or Our Posterity might be in, of being deprived of any Place for Publick Worship, if any sad Change (which GOD prevent) should
+<pb facs="tcp:171513:3"/>happen, through the death of Pious Princes, and the Succession of others of another Persuasion, as hath lately happened in the <hi>Palatinate,</hi> and <hi>Silesia.</hi> Upon these Consi<g ref="char:EOLhyphen"/>derations, We have, (with the Countenance, and by the Advice of Our Gracious Prince Elector) Resolved to Build a Publick Church in this City, the Prince Ele<g ref="char:EOLhyphen"/>ctor having prevailed with the Three Estates of this Land, to give their Consent, that Four Churches may be Erected in <hi>Prussia,</hi> for those of the Reformed Religion, and one of these Four to be in this City, which was not obtained without Difficulty, the Body of the Land being <hi>Lutheran,</hi> We have, upon Our own Charges, with the Assistance of some Friends, begun the Building, and brought it considerably fore<g ref="char:EOLhyphen"/>ward. But considering what is yet required, for perfecting of the VVork, (The way of Building here, being so costly, which we cannot shun, unless VVe would expose Our selves, and Our Religion to Contempt) We find it above our Power, without Assistance from others, who wish well to the Church of Christ; And to whose Door can We with more confidence come for Help, than to Yours, the Repre<g ref="char:EOLhyphen"/>sentative of Our Mother Church, where most of Us had Our Original?</p>
+            <p>We do therefore, in the Bowels of Our Common LORD and Saviour JESUS CHRIST, earnestly entreat, You may please to lay Your selves forth, for procure<g ref="char:EOLhyphen"/>ing some considerable Assistance, from the Churches in that Kingdom, that this Good Work may not die in the Birth, (which Our and Your Enemies would gladly see) but may be brought to Perfection; and it is not a small thing will do it. We leave the Method, for Raising and Collecting it, to Your Discretion. We have Au<g ref="char:EOLhyphen"/>thorized and Commissionated two Faithful and Worthy Friends, Mr. <hi>Charles Ramsay,</hi> and Mr. <hi>Francis Hay</hi> Merchants here, to receive from You, what the Piety and Cha<g ref="char:EOLhyphen"/>rity of Your Church will bestow upon this Great and Good Work. We hope We need not use Arguments, to urge Our Request; the advanceing, yea the standing of the Reformed Interest, amongst Enemies in this Place; the Comfort of Us Your Countrey-men here; the Edification also, of many Merchants and Seamen, which Yearly from <hi>Scotland</hi> do frequent this Place, do call aloud for this.</p>
+            <p>And for Your further Information, about this Matter, VVe have desired the Re<g ref="char:EOLhyphen"/>verend Mr. <hi>James Brown</hi> now Minister at <hi>Rotterdam,</hi> who knoweth Our Circum<g ref="char:EOLhyphen"/>stances well (having for several Years, in the time of Persecution, laboured in the Gospel amongst Us, and that not without Success, Blessed be GOD) more fully to Inform You of the Expediency, yea of the Necessity of this Good VVork.</p>
+            <p>This only, without boasting, VVe presume to add, that there are several VVorthy Persons, both of Gentlemen, Ministers, and others in <hi>Scotland,</hi> (though some of them are fallen asleep) who, from their Experience, can testifie, how ready We were, to Our Power, to be assistant to suffering Persons, in the time of Your Disper<g ref="char:EOLhyphen"/>sion; And now, when the LORD hath graciously restored You to Your former Priviledges, We are confident, You will readily open Your Ears, to this Our Ne<g ref="char:EOLhyphen"/>cessary and Earnest Request.</p>
+            <p>
+               <hi>Finally,</hi> As we desire, that CHRIST'S <hi>CHƲRCH</hi> may Flourish every where; so particularly, Our Earnest Request daily to GOD is, that the Glory of the for<g ref="char:EOLhyphen"/>mer Temple in <hi>SCOTLAND,</hi> may not only be restored; But also, that the Glory of the second Temple there, may exceed the first.</p>
+            <closer>
+               <dateline>VVe have Subscribed this with Our Hands, and Signed with Our Church Seall, at <hi>Koningsberg,</hi>
+                  <date>the 8th. of <hi>February,</hi> 1697. <hi>Stil. Novo.</hi>
+                  </date>
+               </dateline>
+               <salute>Reverend Sirs,</salute>
+               <signed>Your affectionate Brethreen, and humble Servants and Supplicants
+<list>
+                     <item>
+                        <hi>Didericus Farver</hi> V. D. M.</item>
+                     <item>
+                        <hi>Johannes Wilh. Cochius</hi> Serenis. Elect. <hi>Brandenb.</hi> a Sacris.</item>
+                     <item>
+                        <hi>Silvester Lursenius</hi> Eccles. Ibid.</item>
+                     <item>
+                        <hi>Frideric Adams.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hervie</hi> Senior.</item>
+                     <item>
+                        <hi>Daniel Gemnig.</hi>
+                     </item>
+                     <item>
+                        <hi>Paul Sievers.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Collins</hi> Senior.</item>
+                     <item>
+                        <hi>Jacob Kiuck.</hi>
+                     </item>
+                     <item>
+                        <hi>Gottfriedt Sturmm.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>Locus Sigilli Affixi.</signed>
+            </closer>
+         </div>
+         <div type="act">
+            <pb facs="tcp:171513:3"/>
+            <head>Here followeth the <hi>ACT</hi> Of the Provincial Synod of <hi>Lothian</hi> and <hi>Tweeddale,</hi> for a General Collection for the building of a Church, to the <hi>Scots</hi> Reformed Protestants, and others in the City of <hi>Konigsberg</hi> in <hi>Prussia.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh,</hi>
+                  <date>the fifth Day of <hi>May</hi> 1697. post meridiem.</date>
+               </dateline>
+            </opener>
+            <p>THE Provincial Synod of <hi>Lothian</hi> and <hi>Tweeddale,</hi> taking into their Con<g ref="char:EOLhyphen"/>sideration, the Act of the Lords of His Majesties Privy Council, of the date the <hi>fifteenth</hi> day of <hi>April</hi> last bypast; Whereby they allow a General Collection to be made through the whole Churches and Pa<g ref="char:EOLhyphen"/>rishes of this Kingdom, for promoving the Building of a Church at <hi>Konigsberg</hi> in <hi>Prussia,</hi> for Our Countrey-men, and others of the same Reformed Re<g ref="char:EOLhyphen"/>ligion with Us. And to the end that it may be the more Effectual, allowing the re<g ref="char:EOLhyphen"/>spective Ministers and Presbytries concerned, to make the said Collection either at their Church-doors, or by the Ministers, Elders and Deacons, from House to House, as they shall think most expedient, and to intimat the said Collection, on such days as they shall think fit, for that effect; as the said Act more fully bears. And having also considered the Address, made by these of this Nation, residing in the said City of <hi>Konigsberg,</hi> with the Reverend Ministers, and Elders of the Reformed Church there, directed to the General Assembly of the Church of <hi>Scotland,</hi> or their Commis<g ref="char:EOLhyphen"/>sioners, with the Petition thereupon presented by the said Commissioners, to the Lords of His Majesties Privy Council, which were the Grounds of the foresaid Act: Whereby it manifestly appears, that the promoving of the Building of the said Church, is a most necessary Work, for the preserving and advancing of the Interest of the true Reformed Religion in these Parts; And likeways a Duty, whereunto all that sincere<g ref="char:EOLhyphen"/>ly love the Protestant Religion within this Kingdom, are obliedged, both on the ac<g ref="char:EOLhyphen"/>count of their Countreymen and Brethren in these Parts; And also, of that Christian and kindly Sympathie, that they have constantly Expressed towards the Church of <hi>Scotland,</hi> even in its greatest Calamities: Do therefore most seriously recommend it to every Minister, within the foresaid Province of <hi>Lothian</hi> and <hi>Tweeddale,</hi> to cause ga<g ref="char:EOLhyphen"/>ther the said Collection, either at their Church-doors, or by the Ministers, Elders and Deacons, from House to House, as they shall judge most effectual, at any time or day they shall think fit to appoint and intimate, betwixt and the <hi>fifteenth</hi> day of <hi>July</hi> next to come, and that for Parishes Vacand, as well as these Planted, of which the respe<g ref="char:EOLhyphen"/>ctive Presbytries are to take particular care; And what shall be brought in by the foresaid Collection, be immediatly delivered, either by the Ministers of the several Pa<g ref="char:EOLhyphen"/>rishes, or by the Moderator of the Presbytrie of the Bounds, to Mr. <hi>Francis Hay</hi> Fa<g ref="char:EOLhyphen"/>ctor appointed by the foresaid Reformed Church in <hi>Konigsberg,</hi> or to his Sub-factors, on their Receipts, or otherways that the same be sent to Mr. <hi>John Blair</hi> agent for the Kirk, at his House in <hi>Edinburgh;</hi> and that every Presbytrie within the Bounds of the said Synod, draw up and have the Report of their Diligence ready, against the first <hi>Tuesday</hi> of <hi>August</hi> next, for the said Commissioners of the Assembly, who are then to meet. And this Collection is again recommended by the foresaid Synod, to all Mi<g ref="char:EOLhyphen"/>nisters, Elders, Deacons, and other good Protestants within their Bounds, with all seriousness, as they would approve themselves to be sincere Lovers of the true Refor<g ref="char:EOLhyphen"/>med Protestant Religion, and of their Brethren and Countrey-men, both before GOD and Men. <hi>Extracted forth of the Records of the said Provincial Synod of</hi> Lo<g ref="char:EOLhyphen"/>thian <hi>and</hi> Tweeddale, <hi>by</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Jo. Sandilands</hi> Cls. Syn. P.</signed>
+            </closer>
+         </div>
+         <div type="act">
+            <pb facs="tcp:171513:4"/>
+            <head>
+               <hi>ACT</hi> and <hi>Recommendation,</hi> Concerning a Collection, for helping to Build a Church in <hi>Konigsberg</hi> in <hi>Prussia,</hi> in pursuance of the Act of <hi>His Majestie's Privy Council.</hi>
+            </head>
+            <opener>
+               <dateline>At <hi>Edinburgh,</hi>
+                  <date>6 <hi>May</hi> 1697. post Meridiem.</date>
+               </dateline>
+            </opener>
+            <p>WE the Ministers and Elders Commissioners appointed by the late General Assembly of this National Church of <hi>Scotland,</hi> Considering that upon an Address, made by these of the Reformed Religion in <hi>Konigsberg</hi> in <hi>Prussia</hi> to the said General Assembly, or Us their Commissioners, We did apply to the Lords of His Majesties Privy Council, on their behalf, and that it pleased their Lordships, to allow a publick Collection, through all the Churches and Parishes of this Kingdom, for promoving the Building of a Church, for these of the Reformed Religion in <hi>Konigs<g ref="char:EOLhyphen"/>berg,</hi> We the saids Commissioners of the General Assembly, Do therefore Judge it our Duty, for promoving so Good, Necessary and Charitable a Work, to represent to all Ministers, and all who sincerely love the Protestant Reformed Religion, the Grounds and Motives contained in the said Address, and that the same are confirm<g ref="char:EOLhyphen"/>ed by diverse Letters from Ministers Abroad, and good Information from Persons of good Credite at home; as also that our Bretheren in that place did express a great Sym<g ref="char:EOLhyphen"/>pathy with, and contributed Liberally for the support of diverse of this Church and Kingdom, in the time of their late Distress and Calamity Abroad, all which did move the Lords of His Majestie's Privy Council to allow a publick Collection for this good Work: As also, the Provincial Synod of <hi>Lothian</hi> and <hi>Tweeddale,</hi> by their Act Dated the 5 day of <hi>May</hi> instant, did Cordially and Unanimously Recommend this Collection within their Bounds: Therefore We the saids Commissioners appointed by the late General Assembly Unanimously did and hereby do most seriously and ear<g ref="char:EOLhyphen"/>nestly Recommend this Collection for so Charitable, Pious, and Necessary a VVork, to all Ministers, Elders and Deacons, and other good Protestants within this King<g ref="char:EOLhyphen"/>dom, for though we are sensible, it is a strait time with many, yet the VVork being ne<g ref="char:EOLhyphen"/>cessary and of great concern, we cannot but again Recommend it to every Mini<g ref="char:EOLhyphen"/>ster within this Kingdom, that according to the Act of His Majestie's Privy Council thereanent, they cause gather the said Collection, either at their Church Doors, or by the Minister, Elders, and Deacons, from House to House, as they shall judge most effectual, and that they make Intimation thereof, on a Sabbath before the Collection be made, and that this be perfected once before the 15 of <hi>July</hi> next to come, and we Recommend to the Respective Presbytries of this Church, to take care this be done in the Parishes Vacant, as well as in these that are planted; And we humbly entreat the Magistrates of the Respective Bounds, to promove this Charitable Work in all Pa<g ref="char:EOLhyphen"/>rishes without Exception; and it is desired that what shall be Collected, be with due Care and Diligence delivered to Mr. <hi>Francis Hay</hi> Commissionated by our Bretheren in <hi>Konigsberg</hi> for that effect, or to his Sub-Factors on their Receipts, or otherways that the same be sent to Mr. <hi>John Blair</hi> Agent for this Church at his House in <hi>Edinburgh,</hi> and that a Report of Diligence herein be sent by each Presbytry betwixt and the first <hi>Tuesday</hi> of <hi>August</hi> next to come, to us the saids Commissioners of the General Assembly, who are to meet at <hi>Edinburgh</hi> at that time: And Lastly, We do seriously Recom<g ref="char:EOLhyphen"/>mend this Charitable Work to all good Protestants within this Kingdom, as they would approve themselves to be sincere Lovers of the True Reformed Protestant Religion, and of their Bretheren and Country-men, both before God and Men. This is Signed in Name, and at the Command of Us the saids Commissioners appointed by the General Assembly, By</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Mr. <hi>George Meldrum</hi> Modr. Com.</item>
+                     <item>Mr. <hi>John Moncrief</hi> Cls. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by <hi>George Mosman,</hi> in the Year, 1697.</p>
+            <pb facs="tcp:171513:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
